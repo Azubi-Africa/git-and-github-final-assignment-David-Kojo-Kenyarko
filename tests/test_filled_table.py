@@ -4,9 +4,9 @@ from tests.test_readme_table import read_table
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 empty_json_table = {
-    "Project's Name": {1: "", 2: "", 3: ""},
-    "Description": {1: "", 2: "", 3: ""},
-    "GitHub's Link": {1: "", 2: "", 3: ""},
+    "Project's Name": {1: "Grocery-Store-Analysis", 2: "Statistics-in-Data-Analytics", 3: "Caesar-s-Cipher-Decryption"},
+    "Description": {1: "Grocery-Store-Analysis Grocery Store Analysis With Excel", 2: "Statistics-in-Data-Analytics Round to the nearest whole number", 3: "Cipher-Decryption Decryption With Caesars Cipher"},
+    "GitHub's Link": {1: "https://github.com/David-Kojo-Kenyarko/-Grocery-Store-Analysis.git", 2: "https://github.com/David-Kojo-Kenyarko/Statistics-in-Data-Analytics.git", 3: "https://github.com/David-Kojo-Kenyarko/Caesar-s-Cipher-Decryption.git"},
 }
 
 
