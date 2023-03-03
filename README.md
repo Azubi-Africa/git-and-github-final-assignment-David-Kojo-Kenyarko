@@ -19,7 +19,7 @@ The below table must contain the details of the repositories you will create, fi
 
 
 |  | Project's Name | Description    | GitHub's Link  |
-|:--:|:--------------:|:--------------:|:--------------:|
+
 | 1 |Grocery-Store-Analysis|Grocery-Store-Analysis Grocery Store Analysis With Excel| https://github.com/David-Kojo-Kenyarko/-Grocery-Store-Analysis.git |
 | 2 |Statistics-in-Data-Analytics|Statistics-in-Data-Analytics Round to the nearest whole number| https://github.com/David-Kojo-Kenyarko/Statistics-in-Data-Analytics.git |
 | 3 |Caesar-s-Cipher-Decryption|Cipher-Decryption Decryption With Caesars Cipher| https://github.com/David-Kojo-Kenyarko/Caesar-s-Cipher-Decryption.git |
